@@ -1,0 +1,41 @@
+
+body{
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+}
+#logo{
+   width: 100px;
+   height: 100px;
+   float: left;
+   
+}
+.nav{
+    background-color: black;
+    width: 1500px;
+    height: 100px;
+}
+ul{
+    list-style-type:none;
+    
+    color:rgb(228, 232, 235);
+   float: right;
+    word-spacing: 20px;
+    padding:30px;
+}
+li{
+    display: inline;
+   border: 2px solid rgb(5, 1, 10);
+   background-color: #f5f5f5;
+   color:rgb(0, 0, 0);
+   margin-right: 20px;
+   font-size: 25px;
+}
+.pic{
+    float: right;
+    border: 2px solid black;
+    margin-top: 50px;
+}
+h1{
+    font-size: 30px;
+}
