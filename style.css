@@ -11,14 +11,14 @@ body{
    
 }
 .nav{
-    background-color: black;
-    width: 1500px;
+    background-color: rgb(6, 1, 17);
+    width: 1600px;
     height: 100px;
 }
 ul{
     list-style-type:none;
     
-    color:rgb(228, 232, 235);
+    color:rgb(65, 66, 66);
    float: right;
     word-spacing: 20px;
     padding:30px;
@@ -32,10 +32,24 @@ li{
    font-size: 25px;
 }
 .pic{
-    float: right;
-    border: 2px solid black;
+    float:right;
+    border: 3px solid rgb(202, 204, 206);
     margin-top: 50px;
+    margin-right:auto;
+    display: inline-block;
 }
 h1{
+    font-size: 50px;
+    margin-left: 70px;
+}
+h2{
     font-size: 30px;
+    margin-left: 70px;
+}
+P{
+    font: size 20px;
+    margin-left: 70px;
+}
+button{
+    margin-left: 70px;
 }
